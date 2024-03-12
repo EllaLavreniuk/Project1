@@ -12,7 +12,7 @@ namespace Project1
        static void Main (string[] args)
         {
                 int a=1;
-                int b = 1;
+                int b=1;
                 FinalResult = a == b;
             Console.WriteLine("Result:"+ FinalResult);
             Console.ReadKey();
